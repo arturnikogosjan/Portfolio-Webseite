@@ -14,7 +14,7 @@ Die Webseite habe ich mithilfe eines YouTube-Tutorials umgesetzt.
 
 - HTML
 - CSS
-- Javascripz
+- Javascript
 
 ## Ziel des Projekts
 
